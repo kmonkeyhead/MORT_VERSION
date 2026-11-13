@@ -18,5 +18,5 @@ https://blog.naver.com/killkimno/222936631523 버전을 받아주세요]
 
 //경고 - 모트 버전은 가장 아래에 있어야 함.
 @MORT_MINOR_HASH {https://github.com/kmonkeyhead/MORT_VERSION/releases/download/release/MORT.exe.sha256}
-@MORT_MINOR_VERSION [1321-1322] {https://github.com/kmonkeyhead/MORT_VERSION/releases/download/release/MORT.exe}
-@MORT_VERSION [1322] {https://blog.naver.com/killkimno/224408840559}
+@MORT_MINOR_VERSION [1321-1323] {https://github.com/kmonkeyhead/MORT_VERSION/releases/download/release/MORT.exe}
+@MORT_VERSION [1323] {https://blog.naver.com/killkimno/224408840559}
